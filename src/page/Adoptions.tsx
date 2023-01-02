@@ -4,7 +4,7 @@ import Grid from '@mui/material/Unstable_Grid2'
 import MobileNavbar from '../components/navbar/MobileNavbar'
 import DesktopNavbar from '../components/navbar/DesktopNavbar'
 
-const Dashboard = () => {
+const Adoptions = () => {
   return (
     <>
       <Grid container minHeight={'200vh'}>
@@ -19,4 +19,4 @@ const Dashboard = () => {
   )
 }
 
-export default Dashboard
+export default Adoptions
