@@ -1,3 +1,5 @@
 export enum Paths {
-  DASHBOARD = '/'
+  DASHBOARD = '/',
+  ADOPTIONS = '/adopcje',
+  TEMPORARY_HOME = '/dom-tymczasowy',
 }
